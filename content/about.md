@@ -3,6 +3,7 @@ title: "About Me"
 draft: false
 ShowBreadCrumbs: false
 hidemeta: true
+disableShare: true
 ---
 
 *A little haiku about me....*
