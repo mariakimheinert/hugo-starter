@@ -1,11 +1,11 @@
 baseURL = "/"
-title = "My Portfolio Title"
+title = "Maria Kim Heinert"
 theme = "PaperMod"
 
 # Theme configuration
 [params]
 env = "production"
-author = "<author>"
+author = "Maria Kim Heinert"
 description = "Portfolio description"
 keywords = ["Blog", "Portfolio", "PaperMod"]
 disableThemeToggle = false
@@ -23,39 +23,15 @@ iconHeight = 24
 
 [params.profileMode]
 enabled = true
-title = "Jane Doe"
-subtitle = "I am a Person"
+title = "Maria Kim Heinert"
+subtitle = "I am a teacher."
 imageUrl = "profile.png"
 imageWidth = 120
 imageHeight = 120
 
-[[params.profileMode.buttons]]
-name = "tags"
-url = "/tags/"
-
-[[params.profileMode.buttons]]
-name = "puppies"
-url = "https://google.com/search?tbm=isch&q=puppies"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/"
-
-[[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
-
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/"
-
-[[params.socialIcons]]
-name = "gitlab"
-url = "https://gitlab.com/"
+url = "https://github.com/mariakimheinert"
 
 [[menu.main]]
 identifier = "blog"
@@ -70,7 +46,7 @@ url = "/projects/"
 weight = 20
 
 [[menu.main]]
-identifier = "link"
-name = "A link"
-url = "https://google.com/search?tbm=isch&q=cute%20puppies"
+identifier = "about"
+name = "about me"
+url = "/about"
 weight = 30
