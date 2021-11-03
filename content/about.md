@@ -2,6 +2,7 @@
 title: "About Me"
 draft: false
 ShowBreadCrumbs: false
+hidemeta: true
 ---
 
 *A little haiku about me....*
