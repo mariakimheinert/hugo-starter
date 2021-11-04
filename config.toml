@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://maria-hugo-starter.netlify.app"
 title = "Maria Kim Heinert"
 theme = "PaperMod"
 
